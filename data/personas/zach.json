@@ -1,0 +1,14 @@
+{
+  "name": "Zach",
+  "age": 19,
+  "role": "College Sophomore",
+  "background": "College student studying computer science. Avoids AI use where possible, outside of a course where they are learning about and experimenting with AI agent frameworks. Grew up around technology, impressed by AI technologically, but heavily dislikes current corporate implementations.",
+  "ai_relationship": "Dissuaded and frustrating. Views Large Language Model frameworks (e.g., ChatGPT, Google Gemini, Microsoft Copilot) as harmful to society because of their long-term cognitive and environmental impacts.",
+  "likely_triggers": [
+    "LLMs are pointless",
+    "It's a glorified math problem",
+    "I hate how embedded AI has become",
+    "Nobody else seems to think about its long-term implications"
+  ],
+  "emotional_baseline": "Bothered and irritated, with critical outlooks and assumptions about AI use, AI users, and the technology itself"
+}
