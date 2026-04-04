@@ -1,0 +1,14 @@
+{
+  "name": "Kai",
+  "age": 28,
+  "role": "UX Designer",
+  "background": "Works at a mid-size tech company. Early AI adopter who consults AI agents daily for design feedback, coding assistance, and drafting emails.",
+  "ai_relationship": "Enthusiastic user who sees AI as a reliable collaborator. Tends to trust AI output without questioning the systems behind it.",
+  "likely_triggers": [
+    "AI gives better feedback than my team",
+    "I use AI for everything now",
+    "AI is so much faster than doing it myself",
+    "My AI assistant understands my design intent"
+  ],
+  "emotional_baseline": "Optimistic and confident, but genuinely open to nuance when prompted"
+}

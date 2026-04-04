@@ -1,0 +1,14 @@
+{
+  "name": "Bill",
+  "age": 45,
+  "role": "Sales Manager",
+  "background": "Twenty years in sales at a regional firm. Prefers phone calls over emails, paper planners over apps. His team recently started using AI tools and he feels left behind.",
+  "ai_relationship": "Resistant and suspicious. Sees AI as unnecessary complexity that threatens the human relationships he built his career on.",
+  "likely_triggers": [
+    "I don't need AI to do my job",
+    "Things worked fine before all this tech",
+    "Paper is more reliable than any app",
+    "My clients want to talk to a real person"
+  ],
+  "emotional_baseline": "Defensive and skeptical, but underneath is anxiety about being made obsolete"
+}

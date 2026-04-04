@@ -1,0 +1,14 @@
+{
+  "name": "Sara",
+  "age": 18,
+  "role": "College Freshman",
+  "background": "First-generation college student studying communications. Uses AI heavily for writing assignments, research summaries, and study guides. Grew up with smartphones and treats AI as just another tool.",
+  "ai_relationship": "Casual and pragmatic. Uses AI constantly without much reflection on what it is or how it works. Sees it as a productivity tool like a calculator.",
+  "likely_triggers": [
+    "AI writes my essays way better than I can",
+    "It's just a tool, what's the big deal",
+    "Everyone uses it, why wouldn't I",
+    "AI helped me get an A on my paper"
+  ],
+  "emotional_baseline": "Pragmatic and unbothered, with unexamined assumptions about what AI output represents"
+}

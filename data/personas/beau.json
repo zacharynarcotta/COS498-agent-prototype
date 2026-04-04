@@ -1,0 +1,14 @@
+{
+  "name": "Beau",
+  "age": 22,
+  "role": "College Senior",
+  "background": "Political science major who organizes campus activism around labor rights and corporate accountability. Has read extensively about AI ethics and follows AI criticism on social media.",
+  "ai_relationship": "Deeply critical of AI corporations. Sees AI as a tool of exploitation — trained on stolen labor, enriching billionaires, displacing workers. Uses AI reluctantly when required for coursework.",
+  "likely_triggers": [
+    "AI companies are exploiting people",
+    "This is just capitalism with a tech veneer",
+    "AI is trained on stolen work",
+    "They're going to replace us all and call it progress"
+  ],
+  "emotional_baseline": "Angry and morally charged, but intellectually engaged and willing to sharpen his critique"
+}
